@@ -1,0 +1,11 @@
+Необходимо:
+Реализовать возможность перехода к товару в другом цвете (разные товары)
+Интерфейс:
+Через ACF Pro можно назначать картинку цвета, а также выбирать другие товары
+Использование:
+В шаблоне товара реализован шорткод [connected_products]
+Доп материалы:
+В процессе реализации использовалось:
+https://www.kevinleary.net/update-an-acf-repeater-field-programmatically/
+https://wp-kama.ru/hook/save_post
+https://wp-kama.ru/hooks

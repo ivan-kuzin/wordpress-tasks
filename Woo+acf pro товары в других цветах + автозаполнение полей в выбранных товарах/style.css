@@ -1,0 +1,21 @@
+/* products in other colors */
+.other_colors_list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.other_colors_list .color{
+    width: 60px;
+    height: 60px;
+    margin: 2px;
+}
+.other_colors_list .color a{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.other_colors_list .color a img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
